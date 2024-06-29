@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Oisemusiemen
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on gameversal
+- 💞️ I’m looking to collaborate on Gameversal
+- and chessy
 - 📫 How to reach me
 - oise.giwa.okugbe@gmail.com
 - 😄 Pronouns: he
