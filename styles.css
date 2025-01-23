@@ -5,6 +5,7 @@ body{
     background-attachment: fixed;
     background-size: cover;
     color: rgb(163, 204, 17);
+    transition: 2s;
 }
 .bg {
     width: 100%;
